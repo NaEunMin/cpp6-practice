@@ -11,7 +11,7 @@ Write your code in this editor and press "Run" button to compile and execute it.
 
 using namespace std;
 
-class Board{
+class Board{  //<-------이부분에 관한 다른 방법
     public:
   static int id[100];
   static string infomation[100];
